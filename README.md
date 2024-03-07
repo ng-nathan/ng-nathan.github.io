@@ -1,9 +1,3 @@
-<style>
-  .container {display: flex;flex-wrap: wrap;}
-  .column {flex: 50%;padding: 10px;}
-  @media only screen and (max-width: 600px) {.column {flex: 100%;}}
-</style>
-
 # Hosting Resume on Github
 
 ## Purpose
@@ -125,13 +119,4 @@ Sep 1995 - May 1999
     - Unfortunately, you cannot. It has to be `index.md` so Github will know that this is the file you want to be hosted as a Github page.
 
 3. Is it necessary to apply Jekyll theme to your resume?
-    - No, it is not necessary. But it will make your resume look more appealing. Here the comparison.
-<div class="container">
-  <div class="column">
-    No Jekyll
-  </div>
-  <div class="column">
-    With Jekyll
-
-  </div>
-</div>
+    - No, it is not necessary. But it will make your resume look more appealing.
