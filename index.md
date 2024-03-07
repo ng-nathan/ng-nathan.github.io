@@ -1,8 +1,3 @@
----
-layout: default
-title: Nathan Nguyen
----
-
 # Nathan Nguyen
 
 nathan.ng.0808@gmail.com | 204-588-2047 | Github | LinkedIn | Portfolio
