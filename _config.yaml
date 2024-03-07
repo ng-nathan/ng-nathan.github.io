@@ -3,6 +3,6 @@ title: "Nathan Nguyen"
 author: "Nathan Nguyen"
 output: 
   prettydoc::html_pretty:
-    theme: architect
+    theme: hpstr
     toc: yes
 ---
