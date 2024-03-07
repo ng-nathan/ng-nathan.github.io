@@ -1,6 +1,6 @@
 # Nathan Nguyen
 
-nathan.ng.0808@gmail.com | 204-588-2047 | Github | LinkedIn | Portfolio
+nathan.ng.0808@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [LinkedIn](https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/) | [Portfolio](https://nateng98.github.io/nate-portfolio/)
 
 ## EDUCATION
  
@@ -23,8 +23,8 @@ April 2023 - Present
 
 - Tutor pre-calculus and 40S, and help preparing for provincial Math exam and pre-university
 
-### Math & Computer Science Tutor - *Paper - Remote	December* 
-2021 - December 2022
+### Math & Computer Science Tutor - *Paper - Remote* 
+December 2021 - December 2022
 
 - Remotely tutor Math & Programming to 1-12 students across North America
 
