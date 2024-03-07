@@ -98,9 +98,12 @@ Sep 1995 - May 1999
 ![Commit changes](/assets/commitfilemd.gif)
 
 ### Step 4 - Hosting on Github
-- When you click Commit changes, Github will automatically deploy your resume. You can check by going to `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
+- When you click `Commit changes...` from previos step, Github will automatically deploy your resume. You can check by going to `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
+
+![Your Github page](/assets/githubpage.gif)
 
 ### Step 5 - Applying a Jekyll theme to your resume
+- Now go to your repository by click your repository name on the top left of the browser. It should be `yourUsername.github.io`
 - 
 
 ## More Resources
