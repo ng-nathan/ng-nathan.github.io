@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Have you ever got yourself into a situation where you have to make changes to your 
+**Welcome to my Gif-hub guide** *(ba dum tss)* **on how to host your resume as a Github Page!**
 
 ## Prerequisites
 - If you already have created a Github account, you can skip to [Step 2](#step-2---using-markdown)
@@ -98,13 +98,49 @@ Sep 1995 - May 1999
 
 ### Step 5 - Applying a Jekyll theme to your resume
 - Now go to your repository by click your repository name on the top left of the browser. It should be `yourUsername.github.io`
-- 
+- Click on `Add file` then click on `+ Create new file`. It will appear the same text editor as before. Here you will apply a theme to your resume *(index.md)*
+- Type in the naming text box `_config.yml`
+- Then, copy and paste this to the text editor
+```
+---
+title: "Your title" # <--- change to anything you want
+theme: jekyll-theme-midnight
+---
+```
+- There are some other themes you can choose from. Heres are my recommendations
+
+  | Some other Jekyll Theme |
+  |---|
+  |jekyll-theme-midnight|
+  |jekyll-theme-midnight|
+  |jekyll-theme-midnight|
+
+- Click on `Commit changes...` when you're done
+
+![Making theme](assets/makeyml.gif)
+
+- Redirect yourself to your repository
+
+![Deploying](assets/deploying.png)
+
+- The top bar shows a small yellow circle indicating your resume in being deploying after applying a new theme. After it's done, it might or might not show the green tick. 
+
+![Green Tick](assets/greentick.png)
+
+- You will have to click on it to see if it's finished
+- If it shows to be succeed, go to or refresh your Github page `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
+
+![Deployed](assets/builtdonewithshowcase.gif)
+
+### Congratulation! You made it to the end. 
+**Now you have yourself a Github Page Resume!**
+
 
 ## More Resources
 
-[]()
-[]()
-[]()
+- [My resume]()
+- [More Jekyll Theme]()
+- []()
 
 ## Authors and Acknowledgments
 
