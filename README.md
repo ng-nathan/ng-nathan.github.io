@@ -1,25 +1,107 @@
+<style>
+  .container {display: flex;flex-wrap: wrap;}
+  .column {flex: 50%;padding: 10px;}
+  @media only screen and (max-width: 600px) {.column {flex: 100%;}}
+</style>
+
 # Hosting Resume on Github
+
+## Purpose
 
 Have you ever got yourself into a situation where you have to make changes to your 
 
 ## Prerequisites
-- If you already have Visual Studio Code installed and a Github account, you can skip to [Step 3](#step-3---using-markdown)
-- Otherwise, please start from the beginning 
+- If you already have created a Github account, you can skip to [Step 2](#step-2---using-markdown)
+- Otherwise, please start from the beginning of the [Instrustions](#instructions)
 
 ## Instructions
 
-### Step 1 - Installing Visual Studio Code
-- 
+### Step 1 - Creating a Github account
+- [Create a Github account here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+- Type in your email, password and username
+- There will be a puzzel that you need to solve when you create a Github account. It can be something similar to this:
 
-### Step 2 - Creating a Github account
+![Github Puzzel](assets/githubpuzzel.gif)
+- After you solve the puzzel, Github will send you the verification code through your email. Once that's done, it will lead you to Github homepage.
+
+### Step 2 - Creating a repository on Github
+- At the Github homepage, to the left of your browser, there is a green button called `Create repository` 
+- Click on `Create repository` and it will redirect you to a new page
+- It shows the `Owner *` (your username) and `Repository name *` which you will have to fill in
+- Type the text box underneath `Repository name *` in this format 
+```
+yourUsername.github.io
+```
+- e.g, My burner account has the username of **trashgithub88**. I will name repository 
+```
+trashgithub88.github.io
+```
+- Once that's done, click `Create repository` at the bottom of the screen
+
+![Github Repo](assets/makerepo.gif)
 
 ### Step 3 - Using Markdown
+- Make a markdown file by clicking `creating a new file` in the Quick setup section
+- It links to a web text editor. 
+- Right next to `yourUsername.github.io`, there is the textbox for the name of your resume file. You have to name your file exactly like this
+```
+index.md
+```
+![Make index.md](assets/makefilemd.gif)
+- Underneath there is a hugh textbox showing *Enter file contents here*. Now, you will write your resume in Markdown language. It is very easy to learn. Here are some examples
 
-### Step 4 - Creating a repository on Github
+|Syntax|Result|
+|------|------|
+|`**bold**`|**bold**|
+|`*italic*`|*italic*|
+|`***both***`|***both***|
 
-### Step 5 - Hosting 
+[Learn more about Markdown syntax](https://markdownguide.offshoot.io/basic-syntax/) 
+- Start off with my sample code by copying and pasting it in the text editor
+```
+<!--Heading 1-->
+# My Name
+| phone | email | fax |
 
-### Step 6 - Applying a Jekyll theme to your resume
+
+<!--Heading 2-->
+## About me
+<!--Write about yourself-->
+I am cute
+
+## Skills
+<!--Bullet points-->
+- Language: Javascript, C/C++, Python, C#
+- Tool: Git, VSC, Unreal Engine, Unity
+
+<!--Make extra space between lines. Else Markdown will make everything into 1 single line-->
+## Experience
+
+<!--wrap around ** for bold | wrap around * for italic-->
+**Game Dev at Activision Blizzard** - *Remote* 
+
+Sep 1999 - Nov 2010
+- Created World of Warcraft
+- Created Diablo series
+
+## Education
+
+**Comp Sci at MIT** - *Cambridge, MA*
+
+Sep 1995 - May 1999
+- Specialized in computer graphic
+- Specialized in software engineer
+```
+- You can switch between `Edit` and `Preview` to see how it actually looks like *(The option is at the top left corner of the text editor)*
+- Play around and make changes to get familar with Markdown. Once you're satisfied with the content, click `Commit changes...` on the top right corner of the text editor.
+
+![Commit changes](/assets/commitfilemd.gif)
+
+### Step 4 - Hosting on Github
+- When you click Commit changes, Github will automatically deploy your resume. You can check by going to `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
+
+### Step 5 - Applying a Jekyll theme to your resume
+- 
 
 ## More Resources
 
@@ -36,8 +118,17 @@ Have you ever got yourself into a situation where you have to make changes to yo
 1. Is there any cost associated with hosting a page on GitHub?
     - GitHub offers free hosting for static websites through GitHub Pages. To learn more about Github pages, please go [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
-2. What is the difference between hosting a index.html and index.md file?
-    - They are essentially the same when it comes to hosting a page on Github. The main different is that you can choose to implement html code in index.md if you want to further customize your page. However, that would require you to know html. It would be more convenient to use Jekyll to apply theme.
+2. Can I name my resume file differently?
+    - Unfortunately, you cannot. It has to be `index.md` so Github will know that this is the file you want to be hosted as a Github page.
 
-3. Can I not use Visual Studio Code and code write directly on Github repository?
-    - Yes, you can. However, it takes a lot of time for Github to commit and redeploy everytime you make changes. It would be best if you do it locally on Visual Studio Code or any types of text editor you are familiar with.
+3. Is it necessary to apply Jekyll theme to your resume?
+    - No, it is not necessary. But it will make your resume look more appealing. Here the comparison.
+<div class="container">
+  <div class="column">
+    No Jekyll
+  </div>
+  <div class="column">
+    With Jekyll
+
+  </div>
+</div>
