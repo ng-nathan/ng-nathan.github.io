@@ -144,6 +144,7 @@ The top bar shows a small yellow circle indicating your resume in being deployin
 - [Extended Guide on Markdown](https://github.github.com/gfm/)
 - [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
 - [More Jekyll Theme](http://jekyllthemes.org/)
+- [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgments
 
