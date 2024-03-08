@@ -5,39 +5,37 @@
 **Welcome to my Gif-hub guide** *(ba dum tss)* **on how to host your resume as a Github Page!**
 
 ## Prerequisites
-- If you already have created a Github account, you can skip to [Step 2](#step-2---using-markdown)
-- Otherwise, please start from the beginning of the [Instrustions](#instructions)
+- A Github account. You can skip to [Step 3](#step-3---using-markdown) if you already have one
+- A formatted resume in Markdown. You can skip to [Step 3.5](#step-3.5---uploading-resume-onto-github-repository) if you already wrote one.
+
+- Otherwise, please start from the beginning of the [Instructions](#instructions)
 
 ## Instructions
 
 ### Step 1 - Creating a Github account
 - [Create a Github account here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-- Type in your email, password and username
-- There will be a puzzel that you need to solve when you create a Github account. It can be something similar to this:
+- Type in your email, password and username. Then, Github will ask you to solve a puzzle. It can be something similar to this:
 
 ![Github Puzzel](assets/githubpuzzel.gif)
-- After you solve the puzzel, Github will send you the verification code through your email. Once that's done, it will lead you to Github homepage.
+- Type in the verification code sent to your email by Github after you solved the puzzle. Once that's done, it will lead you to Github homepage
 
 ### Step 2 - Creating a repository on Github
-- At the Github homepage, to the left of your browser, there is a green button called `Create repository` 
-- Click on `Create repository` and it will redirect you to a new page
-- It shows the `Owner *` (your username) and `Repository name *` which you will have to fill in
-- Type the text box underneath `Repository name *` in this format 
+- Click on `Create repository` *(a green button on the left side of the browswer)* and it will redirect you to a new page. The new page shows the `Owner *` (your username) and `Repository name *` text box
+- Type the text box underneath `Repository name *` in this format.
 ```
 yourUsername.github.io
 ```
-- e.g, My burner account has the username of **trashgithub88**. I will name repository 
+- e.g, My burner account has the username of **trashgithub88**. I will name repository.
 ```
 trashgithub88.github.io
 ```
-- Once that's done, click `Create repository` at the bottom of the screen
+- Click `Create repository` at the bottom of the screen once that's done.
 
 ![Github Repo](assets/makerepo.gif)
 
 ### Step 3 - Using Markdown
-- Make a markdown file by clicking `creating a new file` in the Quick setup section
-- It links to a web text editor. 
-- Right next to `yourUsername.github.io`, there is the textbox for the name of your resume file. You have to name your file exactly like this
+- Make a markdown file by clicking `creating a new file` in the Quick setup section. It links to a web text editor.
+- Fill the text box next to `yourUsername.github.io` exactly with.
 ```
 index.md
 ```
@@ -91,16 +89,23 @@ Sep 1995 - May 1999
 
 ![Commit changes](/assets/commitfilemd.gif)
 
+### [Go to step 4](#step-4---hosting-on-github)
+
+### Step 3.5 - Uploading resume onto Github repository
+- Change your Markdown resume file name to `index.md`
+- Upload your markdown file by clicking `Upload` in the Quick setup section.
+
 ### Step 4 - Hosting on Github
-- When you click `Commit changes...` from previos step, Github will automatically deploy your resume. You can check by going to `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
+When you click `Commit changes...` from previous step, Github will automatically deploy your resume. 
+- Check your Github resume page by going to `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
 
 ![Your Github page](/assets/githubpage.gif)
 
 ### Step 5 - Applying a Jekyll theme to your resume
-- Now go to your repository by click your repository name on the top left of the browser. It should be `yourUsername.github.io`
+- Go to your repository by click your repository name on the top left of the browser. It should be `yourUsername.github.io`
 - Click on `Add file` then click on `+ Create new file`. It will appear the same text editor as before. Here you will apply a theme to your resume *(index.md)*
 - Type in the naming text box `_config.yml`
-- Then, copy and paste this to the text editor
+- Copy and paste this to the text editor
 ```
 ---
 title: "Your title" # <--- change to anything you want
@@ -123,17 +128,17 @@ theme: jekyll-theme-midnight
 
 ![Deploying](assets/deploying.png)
 
-- The top bar shows a small yellow circle indicating your resume in being deploying after applying a new theme. After it's done, it might or might not show the green tick. 
+The top bar shows a small yellow circle indicating your resume in being deploying after applying a new theme. After it's done, it might or might not show the green tick. 
 
 ![Green Tick](assets/greentick.png)
 
-- You will have to click on it to see if it's finished
-- If it shows to be succeed, go to or refresh your Github page `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
+- Click on it to see if it's finished. If it shows to be succeed, go to or refresh your Github page `https://yourUsername.github.io/` (*remember to replace yourUsername with yours*)
 
 ![Deployed](assets/builtdonewithshowcase.gif)
 
 ### Congratulation! You made it to the end. 
-**Now you have yourself a Github Page Resume!**
+**Now you have yourself a Github Page Resume! And it should look like this**
+
 
 
 ## More Resources
@@ -145,6 +150,7 @@ theme: jekyll-theme-midnight
 ## Authors and Acknowledgments
 
 - [NhatAnh Nguyen](https://github.com/nateng98)
+- group members
 
 ## FAQs
 
