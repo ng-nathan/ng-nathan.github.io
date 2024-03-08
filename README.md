@@ -40,7 +40,7 @@ trashgithub88.github.io
 index.md
 ```
 ![Make index.md](assets/makefilemd.gif)
-- Underneath there is a hugh textbox showing *Enter file contents here*. Now, you will write your resume in Markdown language. It is very easy to learn. Here are some examples
+Underneath there is a hugh textbox showing *Enter file contents here*. Now, you will write your resume in Markdown language. It is very easy to learn. Here are some examples
 
 |Syntax|Result|
 |------|------|
@@ -84,7 +84,7 @@ Sep 1995 - May 1999
 - Specialized in computer graphic
 - Specialized in software engineer
 ```
-- You can switch between `Edit` and `Preview` to see how it actually looks like *(The option is at the top left corner of the text editor)*
+- Switch between `Edit` and `Preview` to see how it actually looks like *(The option is at the top left corner of the text editor)*
 - Play around and make changes to get familar with Markdown. Once you're satisfied with the content, click `Commit changes...` on the top right corner of the text editor.
 
 ![Commit changes](/assets/commitfilemd.gif)
@@ -93,7 +93,11 @@ Sep 1995 - May 1999
 
 ### Step 3.5 - Uploading resume onto Github repository
 - Change your Markdown resume file name to `index.md`
-- Upload your markdown file by clicking `Upload` in the Quick setup section.
+- Upload your markdown file by clicking `uploading an existing file` in the Quick setup section. It will lead you to a new page asking for file(s)
+- Drag your `index.md` into the box
+- Click `Commit changes` and the file will be uploaded on Github repository
+
+![Upload resume](assets/uploadmd.gif)
 
 ### Step 4 - Hosting on Github
 When you click `Commit changes...` from previous step, Github will automatically deploy your resume. 
@@ -112,13 +116,6 @@ title: "Your title" # <--- change to anything you want
 theme: jekyll-theme-midnight
 ---
 ```
-- There are some other themes you can choose from. Heres are my recommendations
-
-  | Some other Jekyll Theme |
-  |---|
-  |jekyll-theme-midnight|
-  |jekyll-theme-midnight|
-  |jekyll-theme-midnight|
 
 - Click on `Commit changes...` when you're done
 
@@ -139,23 +136,24 @@ The top bar shows a small yellow circle indicating your resume in being deployin
 ### Congratulation! You made it to the end. 
 **Now you have yourself a Github Page Resume! And it should look like this**
 
-
+*[Link to my resume](https://nateng98.github.io/)*
+![Demo](assets/demo.gif)
 
 ## More Resources
 
-- [My resume]()
-- [More Jekyll Theme]()
-- []()
+- [Extended Guide on Markdown](https://github.github.com/gfm/)
+- [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
+- [More Jekyll Theme](http://jekyllthemes.org/)
 
 ## Authors and Acknowledgments
 
-- [NhatAnh Nguyen](https://github.com/nateng98)
-- group members
+- Jekyll Theme by [mattgraham](https://twitter.com/mattgraham)
+- Suggestions and feedbacks from [algorizan](https://github.com/algorizan/algorizan.github.io) and [bc3040assignment2](https://github.com/bc3040assignment2/bc3040assignment2.github.io)
 
 ## FAQs
 
 1. Is there any cost associated with hosting a page on GitHub?
-    - GitHub offers free hosting for static websites through GitHub Pages. To learn more about Github pages, please go [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+    - GitHub offers free hosting for static websites through GitHub Pages. To learn more about Github pages, please go [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) 
 
 2. Can I name my resume file differently?
     - Unfortunately, you cannot. It has to be `index.md` so Github will know that this is the file you want to be hosted as a Github page.
