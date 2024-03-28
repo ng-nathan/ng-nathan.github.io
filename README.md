@@ -136,7 +136,6 @@ The top bar shows a small yellow circle indicating your resume in being deployin
 ### Congratulation! You made it to the end. 
 **Now you have yourself a Github Page Resume! And it should look like this**
 
-*[Link to my resume](https://nateng98.github.io/)*
 ![Demo](assets/demo.gif)
 
 ## More Resources
