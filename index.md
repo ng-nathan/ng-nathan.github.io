@@ -8,8 +8,9 @@ nathan.ng.0808@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) 
 September 2019 - Present
 
 **B.Sc. Computer Science**
+- Specializing in Software Development and Human Computer Interaction
 - Cumulative GPA: 3.5/4.5
-- Relevant Coursework: Object-Oriented programming, Data Structures & Algorithms, Databases Concepts & Usage, Human-Computer Interaction, Computer Graphic, Software Engineering
+- Relevant Coursework: Object-Oriented programming, Data Structures & Algorithms Analysis 1 & 2, Databases Concepts & Usage, Human-Computer Interaction, Computer Graphic, Software Engineering 1 & 2
 
 ## TECHNICAL SKILLS
 
@@ -18,24 +19,27 @@ September 2019 - Present
 
 ## WORK EXPERIENCE
 
-### Grade 11 & 12 Math Tutor - *Tutorbright - Winnipeg, MB*	
+### Grade 11/12 Math Tutor & Programming Tutor - *Tutorbright - Winnipeg, MB*	
 April 2023 - Present
 
 - Tutor pre-calculus and 40S, and help preparing for provincial Math exam and pre-university
+- Introduce early concepts of Data Structure and Algorithm and prepare students for Computer Science major
+
+### Software Developer Intern - *1Bitlab Technology JSC - Hanoi, Vietnam*
+November 2022 – March 2023
+- Used frameworks like React or Vue.js for dynamic user interfaces and wrote server-side code in languages like
+Python and Node.js
+- Wrote and debugged code under the guidance of a mento
 
 ### Math & Computer Science Tutor - *Paper - Remote* 
 December 2021 - December 2022
 
 - Remotely tutor Math & Programming to 1-12 students across North America
 
-### Teaching Assistant - *University of Winnipeg - Winnipeg, MB*	
+### Teaching Assistant & Computer Science Grader - *University of Winnipeg & University of Manitoba - Winnipeg, MB*	
 January 2022 - August 2022
 
-- Lab instructor for Math courses
-
-### Computer Science Grader - *University of Manitoba, Winnipeg, MB*	
-January 2022 - May2022
-
+- Organizing quizzes and help students with homework/assignment during lab session
 - Grade and evaluate students’ tests and assignments
 
 ### Graphic Designer - *Freelance*	
@@ -45,23 +49,36 @@ December 2016 - August 2018
 
 ## PROJECTS
 
-### PantryPro - *COMP3350: Software Engineering*	
-On going
+### PantryPro | *Android Studio (Java), JUnit, Espresso*
+January 2024 – March 2024
 
-- Learning how to use Android Studio and Git
-- Utilised knowledge from past courses and experience to design an Android app with 
+- Developed a fully functional Android app for Google Pixel Tablet
+- Managed the project with agile development and through version control on Gitlab
+- Learnt to wrote automated tests for presentation, business and persistence layers
 
-### Winnipeg Bus Lookup - *COMP3380: Database*	
-November 2023
+### PantryPro Website | *HTML, CSS, JavaScript, JQuery, Bootstrap*
+March 2024 – April 2024
+• Developed a promotion website for PantryPro app
+• Utilized Bootstrap for designing front-end
 
-- Learnt SQL server and complicated queries
-- Used HTML, CSS, Python Flask to render a GUI for SQL database
+### Winnipeg Bus Lookup | *HTML, CSS, Python, Flask*
+August 2023 – November 2023
 
-### CV Generator - *Personal Project*	
-April 2023
+- Establishes a comprehensive database for accessing Winnipeg bus schedules and weather information in the past,
+giving valuable insights into the impact of the weather on public transportation efficiency in Winnipeg
+- Learnt implement a database with SQLServer
 
-- Used HTML, CSS, Javascript to create the website
-- The project is backend focused, using mostly vanilla Javascript and some JQuery
+### Multiple Python Small Projects/Scripts | *Python* 
+April 2023 - Present
+- Wrote a python script that organizes files in a folder, putting them into sub-folders based on their extensions
+- Wrote multiple scripts that demonstrate the Transport Layer of the OSI model, focusing on TCP and UDP
+connections (Distributed System)
+
+### CV Generator | *HTML, CSS, JavaScript*
+September 2023 – October 2023
+
+- Developed a website that generates a resume
+- Used pure JavaScript as back-end
 
 ### Dodge the virus - *UManitoba CSSA Game Jam*	
 January 2021
