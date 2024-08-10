@@ -25,12 +25,6 @@ April 2023 - Present
 - Tutor pre-calculus and 40S, and help preparing for provincial Math exam and pre-university
 - Introduce early concepts of Data Structure and Algorithm and prepare students for Computer Science major
 
-### Software Developer Intern - *1Bitlab Technology JSC - Hanoi, Vietnam*
-November 2022 – March 2023
-- Used frameworks like React or Vue.js for dynamic user interfaces and wrote server-side code in languages like
-Python and Node.js
-- Wrote and debugged code under the guidance of a mento
-
 ### Math & Computer Science Tutor - *Paper - Remote* 
 December 2021 - December 2022
 
