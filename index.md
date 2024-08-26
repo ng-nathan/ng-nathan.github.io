@@ -1,6 +1,6 @@
 # Nathan Nguyen
 
-nathan.ng.0808@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [LinkedIn](https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/) | [Portfolio](https://nateng98.github.io/nate-portfolio/)
+nathan.ng.0808@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [LinkedIn](https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/) | [Portfolio](https://nate-portfolio-v2.vercel.app/)
 
 ## EDUCATION
  
@@ -10,12 +10,13 @@ September 2019 - Present
 **B.Sc. Computer Science**
 - Specializing in Software Development and Human Computer Interaction
 - Cumulative GPA: 3.5/4.5
-- Relevant Coursework: Object-Oriented programming, Data Structures & Algorithms Analysis 1 & 2, Databases Concepts & Usage, Human-Computer Interaction, Computer Graphic, Software Engineering 1 & 2
+- Relevant Coursework: Object-Oriented programming, Data Structures & Algorithms Analysis 1 & 2, Databases Concepts & Usage, Human-Computer Interaction, Computer Graphic, Software Engineering 1 & 2, Distributed System & Computing
 
 ## TECHNICAL SKILLS
 
 - Programming Languages: Java, C, C++, HTML, CSS, JavaScript, Python, SQL, noSQL
-- Tools: Github, Figma, Photoshop, Illustrator
+- Tools: React, Tailwind, Framer Motion, Github, Figma, Photoshop, Illustrator
+- Learning: Angular, Vue.js, Next.js
 
 ## WORK EXPERIENCE
 
@@ -24,6 +25,11 @@ April 2023 - Present
 
 - Tutor pre-calculus and 40S, and help preparing for provincial Math exam and pre-university
 - Introduce early concepts of Data Structure and Algorithm and prepare students for Computer Science major
+
+### Software Developer Intern - *1Bitlab Technology - Hanoi, Vietnam*
+November 2022 – March 2023
+
+- Wrote and debugged code under the guidance of a mentor, mainly in Java and some Python
 
 ### Math & Computer Science Tutor - *Paper - Remote* 
 December 2021 - December 2022
@@ -43,6 +49,24 @@ December 2016 - August 2018
 
 ## PROJECTS
 
+### E-commerce Website | *React, Tailwind, Firebase, Stripe.js*
+November 2023 – Present
+
+- Developing an e-commerce website similar to BestBuy or TheSource 
+- Implementing online payment with Stripe.js API
+
+### Admin Dashboard | *MERN Stack*
+March 2024 – Present
+
+- Learning MERN Stack
+- Developing a dashboard for system management
+
+### Personal Portifolio | *React, Tailwind, Framer Motion*
+June 2024 – July 2024
+
+- Made a second personal portfolio using React instead of pure Javascript like the first one
+- Utilized Tailwind for designing front-end and Framer Motion for cool animation
+
 ### PantryPro | *Android Studio (Java), JUnit, Espresso*
 January 2024 – March 2024
 
@@ -52,8 +76,9 @@ January 2024 – March 2024
 
 ### PantryPro Website | *HTML, CSS, JavaScript, JQuery, Bootstrap*
 March 2024 – April 2024
-• Developed a promotion website for PantryPro app
-• Utilized Bootstrap for designing front-end
+
+- Developed a promotion website for PantryPro app
+- Utilized Bootstrap for designing front-end
 
 ### Winnipeg Bus Lookup | *HTML, CSS, Python, Flask*
 August 2023 – November 2023
@@ -74,7 +99,7 @@ September 2023 – October 2023
 - Developed a website that generates a resume
 - Used pure JavaScript as back-end
 
-### Dodge the virus - *UManitoba CSSA Game Jam*	
+### UManitoba CSSA Game Jam | *C#*
 January 2021
 
 - Designed an engaging and user-friendly UI/UX for the game, created for the UManitoba CSSA Game Jam
