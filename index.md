@@ -29,7 +29,7 @@ April 2023 - Present
 ### Software Developer Intern - *1Bitlab Technology - Hanoi, Vietnam*
 November 2022 – March 2023
 
-- Wrote and debugged code under the guidance of a mentor, mainly in Java and some Python
+- Wrote and debugged code under the guidance of a mentor, mainly in Java and Javascript
 
 ### Math & Computer Science Tutor - *Paper - Remote* 
 December 2021 - December 2022
