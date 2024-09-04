@@ -1,4 +1,4 @@
-# Nathan Nguyen
+<!-- Nathan Nguyen -->
 
 nathan.ng.0808@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [LinkedIn](https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/) | [Portfolio](https://nate-portfolio-v2.vercel.app/)
 
@@ -55,11 +55,11 @@ November 2023 – Present
 - Developing an e-commerce website similar to BestBuy or TheSource 
 - Implementing online payment with Stripe.js API
 
-### Admin Dashboard | *MERN Stack*
-March 2024 – Present
+### Improved TutorBright Hub | *React, Material UI*
+March 2024 – August 2024
 
-- Learning MERN Stack
-- Developing a dashboard for system management
+- A proposal aiming to improve TutorBright's existing hub
+- upgrade includes introducing a drag-and-drop feature for FullCalendar.js, along with various quality-of-life and visual improvements
 
 ### Personal Portifolio | *React, Tailwind, Framer Motion*
 June 2024 – July 2024
