@@ -1,4 +1,4 @@
-<!-- Nathan Nguyen -->
+# Nathaniel Nguyen
 
 nathan.ng.0808@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [LinkedIn](https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/) | [Portfolio](https://nate-portfolio-v2.vercel.app/)
 
