@@ -5,21 +5,26 @@ ngna.nathan@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [
 ## EDUCATION
  
 ### University of Manitoba - *Winnipeg, MB*	
-September 2019 - Present
 
 **B.Sc. Computer Science**
-- Specializing in Software Development and Human Computer Interaction
-- Relevant Coursework: Software Engineer, Distributed System, Artificial Intelligence, Algorithm & Data structure, Database, Object Orientation
+- Specializing in Software Enigneering and Human Computer Interaction
+- Relevant Coursework: Software Engineer, Distributed System, Artificial Intelligence, Algorithm & Data structure, Database, Object Orientation, Robotics
 
 ## TECHNICAL SKILLS
 
 - Languages & Databases: Java, Python, C#, JavaScript, TypeScript
-- Front end: React, Angular
+- Front end: React Native, ReactJS, Angular
 - Back end: Node.js, Express, Flask, ASP.NET
 - Databases: PostgreSQL, MongoDB, SQL Server, Firebase
-- DevOps: Git, Docker, Jenkins, Github Action
+- DevOps: Git, Docker, Github Action
 
 ## WORK EXPERIENCE
+
+### Software Engineer - *Scout (Price Industries) - Winnipeg, MB*
+January 2025 - Present
+
+- Test Bluetooth Low Energy (BLE) advertising and extended advertising packets, evaluating transmission efficiency for payloads exceeding 32 bytes
+- Develop Android/iOS React Native applications to interface with BLE tools and sensors, providing diagnostics, configuration, and support for plug-and-play sensor nodes that measure airflow parameters (velocity, temperature, humidity, CO2)
 
 ### Grade 11/12 Math Tutor & Programming Tutor - *Tutorbright - Winnipeg, MB*	
 April 2023 - Present
@@ -28,7 +33,7 @@ April 2023 - Present
 prepare them for the provincial math exam
 - Helped students grasp foundational Computer Science concepts, preparing them for university level studies
 
-### Software Developer Intern - *1Bitlab Technology - Hanoi, Vietnam*
+### Software Developer - *1Bitlab Technology - Hanoi, Vietnam*
 November 2022 – March 2023
 
 - Contributed to the development of a full stack employee management dashboard using React, TypeScript, and
@@ -55,7 +60,7 @@ December 2016 - August 2018
 ## PROJECTS
 
 ### Concierge | *React, Angular, ASP.NET, Flask, MongoDB, PostgreSQL*
-September 2024 - Present
+September 2024 - December 2024
 - Architected a scalable microservices backend, using C# (ASP.NET) and Python (Flask), deployed via Kubernetes
 clusters on Azure cloud, ensuring high availability and fault tolerance
 - Led the design and development of 2 frontends: React for guests interactions and Angular for hotel staffs
@@ -70,7 +75,7 @@ to handle different operational requirements
 - Actively contributed to Agile development cycles, ensuring seamless integration of new features through regular
 sprint iterations and code reviews
 
-### Personal AI ChatBot | *Python, Hugging Face, Flask*
+### Personal AI ChatBot | *Python, Hugging Face*
 September 2024 – Present
 - Built a machine learning-powered chatbot using Hugging Face transformers, training it on WhatsApp chat history
 to capture conversational nuances and personalize interactions
