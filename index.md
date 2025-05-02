@@ -21,10 +21,10 @@ ngna.nathan@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [
 ## WORK EXPERIENCE
 
 ### Software Engineer - *Scout (Price Industries) - Winnipeg, MB*
-January 2025 - Present
+January 2025 - May 2025
 
 - Test Bluetooth Low Energy (BLE) advertising and extended advertising packets, evaluating transmission efficiency for payloads exceeding 32 bytes
-- Develop Android/iOS React Native applications to interface with BLE tools and sensors, providing diagnostics, configuration, and support for plug-and-play sensor nodes that measure airflow parameters (velocity, temperature, humidity, CO2)
+- Develop Android (Kotlin) & iOS (Swift) applications to interface with BLE tools and sensors, providing diagnostics, configuration, and support for plug-and-play sensor nodes that measure airflow parameters (velocity, temperature, humidity, CO2)
 
 ### Grade 11/12 Math Tutor & Programming Tutor - *Tutorbright - Winnipeg, MB*	
 April 2023 - Present
