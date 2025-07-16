@@ -20,6 +20,15 @@ ngna.nathan@gmail.com | 204-588-2047 | [Github](https://github.com/nateng98) | [
 
 ## WORK EXPERIENCE
 
+### Robotics Research Assistant - *Human Computer Interaction Lab - University of Manitoba - Winnipeg, MB*
+May 2025 – Present
+
+- Designing and developing interactive prototypes and control interfaces to investigate how users perceive speed and
+motion during teleoperation tasks, focusing on real-time feedback and responsiveness
+
+- Conducting experiments using teleoperated robots to analyze how different visual effects such as motion blur,
+scaling, and animation timing affect user awareness and judgment of speed changes in remote environments
+
 ### Software Engineer - *Scout (Price Industries) - Winnipeg, MB*
 January 2025 - May 2025
 
