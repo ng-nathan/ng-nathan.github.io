@@ -68,6 +68,13 @@ December 2016 - August 2018
 
 ## PROJECTS
 
+### WordLens | *HTML, CSS, JavaScript, Machine Learning (TensorFlow.js)*
+January 2025– April 2025
+- Prototyped with HTML, CSS, JaveScript, and TensorFlow.js to explore object recognition and translation for
+language learners
+- Conducted usability experiments focused on intuitiveness and user experience of the application, preparing for real
+production development & deployment.
+
 ### Concierge | *React, Angular, ASP.NET, Flask, MongoDB, PostgreSQL*
 September 2024 - December 2024
 - Architected a scalable microservices backend, using C# (ASP.NET) and Python (Flask), deployed via Kubernetes
@@ -83,13 +90,6 @@ cutting deployment times at least by 50%
 to handle different operational requirements
 - Actively contributed to Agile development cycles, ensuring seamless integration of new features through regular
 sprint iterations and code reviews
-
-### Personal AI ChatBot | *Python, Hugging Face*
-September 2024 – Present
-- Built a machine learning-powered chatbot using Hugging Face transformers, training it on WhatsApp chat history
-to capture conversational nuances and personalize interactions
-- Integrated Natural Language Processing (NLP) models with the goal of improving chatbot accuracy in mimicking
-conversation style
 
 ### UM Course Planner | *JavaScript, FullCalendar.js, Chrome API* 
 August 2024 – October 2024
