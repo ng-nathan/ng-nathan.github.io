@@ -10,24 +10,25 @@ May 2025 – Present
 - Develop Python/C++ prototypes and control interfaces for teleoperation speed perception studies
 - Integrate computer vision to simulate motion effects (blur, scaling, timing) and test real-time user response
 
+### Software Developer - *DataAnnotation & Outlier - Winnipeg, MB*
+May 2024 – Present
+
+- Completed small, varied coding projects across web, databases, and ML, often fragments of larger systems used for
+AI training
+- Built solutions in Python, JavaScript, SQL, Flask, React, TensorFlow, Azure, and GCS
+- Reviewed, debugged, and ranked AI-generated code for quality and correctness
+
 ### Math & Programming Tutor - *Tutorbright & Paper - Winnipeg, MB*	
 December 2021 - Present
 
 - Tutored programming and high school math students for provincial exam success.
 
-### Software Engineer - *Scout (Price Industries) - Winnipeg, MB*
+### Software Developer - *Scout (Price Industries) - Winnipeg, MB*
 January 2025 - May 2025
 
 - Worked on embedded systems with CYW20822 chip, testing BLE extended advertising up to 230-byte payloads
 - Built Android (Kotlin) & iOS (Swift) apps for BLE diagnostics and sensor data
 - Worked closely with the project manager in an Agile environment to deliver transmission efficiency targets
-
-### Software Developer - *1Bitlab Technology - Hanoi, Vietnam*
-November 2022 – March 2023
-
-- Built full-stack employee management dashboard with React, TypeScript, Tailwind CSS, implementing CRUD
- features
-- Improved test coverage with unit, integration, and system tests using Cypress
 
 ### Teaching Assistant & Computer Science Grader - *University of Winnipeg & University of Manitoba - Winnipeg, MB*	
 January 2022 - August 2022
@@ -48,13 +49,13 @@ December 2016 - August 2018
 
 ## PROJECTS
 
-### WordLens | *HTML, CSS, JavaScript, Machine Learning (TensorFlow.js)*
-January 2025– April 2025
+### WordLens | *JavaScript, Machine Learning (TensorFlow.js)*
+April 2025
 - Prototyped object recognition and translation app using HTML, CSS, JavaScript, and TensorFlow.js
 - Ran usability tests and collaborated in scrum team to plan production development
 
 ### Concierge | *React, Angular, ASP.NET, Flask, MongoDB, PostgreSQL*
-September 2024 - December 2024
+December 2024
 - Built scalable microservices backend (C# ASP.NET, Python Flask) on Azure
 - Led the frontend team in designing and developing two interfaces: React for guest interactions and Angular for
  hotel staff operations
