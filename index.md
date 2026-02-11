@@ -1,17 +1,17 @@
 # Nathan Nguyen
 
-204-588-2047 | ngna.nathan@gmail.com | [Github](https://github.com/ng-nathan) | [LinkedIn](https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/) | [Portfolio](https://nate-portfolio-v2.vercel.app/)
+(+84)36 779 0998 | ngna.nathan@gmail.com | [Github](https://github.com/ng-nathan) | [LinkedIn](https://www.linkedin.com/in/nathaniel-n-2176301ab/) | [Portfolio](https://nate-portfolio-v2.vercel.app/)
+
+## TECHNICAL SKILLS
+
+- **Programming Languages**: Java, Python, C#, JavaScript, TypeScript, Swift
+- **Frameworks**: React, Next.js, Angular, .NET, Express, Flask, Tailwind CSS, FramerMotion
+- **Tools and Technologies**: git, Docker, Github Action
 
 ## WORK EXPERIENCE
 
-### Robotics Research Assistant - *Human Computer Interaction Lab - University of Manitoba - Winnipeg, MB*
-May 2025 – Present
-
-- Develop Python/C++ prototypes and control interfaces for teleoperation speed perception studies
-- Integrate computer vision to simulate motion effects (blur, scaling, timing) and test real-time user response
-
 ### Software Developer - *DataAnnotation & Outlier - Winnipeg, MB*
-May 2024 – Present
+May 2024 – Feburary 2026
 
 - Completed small, varied coding projects across web, databases, and ML, often fragments of larger systems used for
 AI training
@@ -19,9 +19,15 @@ AI training
 - Reviewed, debugged, and ranked AI-generated code for quality and correctness
 
 ### Math & Programming Tutor - *Tutorbright & Paper - Winnipeg, MB*	
-December 2021 - Present
+December 2021 - Feburary 2026
 
 - Tutored programming and high school math students for provincial exam success.
+
+### Robotics Research Assistant - *Human Computer Interaction Lab - University of Manitoba - Winnipeg, MB*
+May 2025 – Feburary 2026
+
+- Develop Python/C++ prototypes and control interfaces for teleoperation speed perception studies
+- Integrate computer vision to simulate motion effects (blur, scaling, timing) and test real-time user response
 
 ### Software Developer - *Scout (Price Industries) - Winnipeg, MB*
 January 2025 - May 2025
@@ -48,6 +54,11 @@ December 2016 - August 2018
 - Specializing in Software Enigneering and Human Computer Interaction
 
 ## PROJECTS
+
+### DripSpire | *Next.js, shadcn.ui, Stripe, Printful*
+Present
+- Build a Next.js-based e-commerce site with Printful API and Stripe integration to generate side income through
+print-on-demand
 
 ### WordLens | *JavaScript, Machine Learning (TensorFlow.js)*
 April 2025
@@ -98,8 +109,3 @@ connections in a distributed system context
 distributed nodes
 - Designed a producer-consumer system leveraging UDP for efficient, low-latency message passing, simulating
 real-time data exchange between distributed components
-
-## TECHNICAL SKILLS
-
-- **Programming Languages**: Java, Python, C#, JavaScript, TypeScript, Swift
-- **Tools and Technologies**: git, Docker, Github Action, Jenkins
